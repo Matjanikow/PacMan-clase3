@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1713897347
+background.tscn::PackedScene::7865169560375917399::1713897303::0::1::::<><>::
+icon.svg::CompressedTexture2D::1438433854971360608::1713893714::1713893720::1::::<><>::
+juego_background.tscn::PackedScene::6267719869405502395::1713896775::0::1::::<><>::
+menu.gd::GDScript::-1::1713896222::0::1::::<>Node<>::
+menu.tscn::PackedScene::3774159850829991875::1713897302::0::1::::<><>::res://menu.gd<>uid://dkb7gt0bp1hxn::::res://background.tscn
+Pacman1.jpg::CompressedTexture2D::5709956354241758933::1713897333::1713897347::1::::<><>::
+Personaje.gd::GDScript::-1::1713897301::0::1::::<>Node2D<>::
+world.tscn::PackedScene::865146588374474276::1713897303::0::1::::<><>::res://Personaje.gd<>uid://uq12bryrff0c::::res://icon.svg<>uid://cvkeovxkojor0::::res://juego_background.tscn
